@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Ismail Hirich</h1>
-  <h3>AI & Data Enthusiast | Passionate about Intelligent Systems</h3>
+  <h3>AI & Data Science Student | Building Intelligent Applications</h3>
   
   <p>Building intelligent applications and exploring the world of Artificial Intelligence and Data Science.</p>
 </div>
@@ -48,11 +48,11 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Featured Projects
 
-- **[Fire-Scout](https://github.com/YassineBibrine/Fire-Scout)** — AI Collaborative Project
-- **[ISODATA Classification App](https://github.com/ISMHH06/ISODATA-Classification-App)** — Data Classification Application using AI
-- **[Smart Feed](https://github.com/sohaib-bkt/smart-feed)** — Hybrid AI Recommendation System
+- 🔥 **[Fire-Scout](https://github.com/YassineBibrine/Fire-Scout)** — Multi-Robot Fire Detection & Exploration System (ROS2)
+- 📊 **[ISODATA Classification App](https://github.com/ISMHH06/ISODATA-Classification-App)** — Unsupervised Customer Segmentation
+- 📰 **[Smart Feed](https://github.com/sohaib-bkt/smart-feed)** —  Hybrid AI Recommendation System
 
 ---
 
