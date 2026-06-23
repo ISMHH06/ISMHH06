@@ -39,8 +39,7 @@
 
 - **[Fire-Scout](https://github.com/YassineBibrine/Fire-Scout)** — AI Collaborative Project
 - **[ISODATA Classification App](https://github.com/ISMHH06/ISODATA-Classification-App)** — Data Classification Application using AI
-- **[Technique-AI](https://github.com/ISMHH06/Technique-AI)** — AI & Machine Learning projects with Jupyter
-- **Elzero Frontend Clones** — Professional UI/UX replications with modern CSS
+- **[Smart Feed](https://github.com/sohaib-bkt/smart-feed)** — Hybrid AI Recommendation System
 
 ---
 
